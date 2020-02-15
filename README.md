@@ -39,8 +39,34 @@ Die Auswahl ist zwar kleiner, aber es gibt sie – die alternativen App-Anbieter
 ### App Stores
 
 - [F-Droid](https://f-droid.org/de/)
+- [Aurora Store](https://f-droid.org/de/packages/com.aurora.store/)
+- [Aurora Droid](https://f-droid.org/de/packages/com.aurora.adroid/)
+- [F-Droid Privileged Extension](https://f-droid.org/de/packages/org.fdroid.fdroid.privileged/)
+
+### Apps
+
+- [AFWall+](https://f-droid.org/de/packages/dev.ukanth.ufirewall/)
+- [Blokada v4 (ad blocker)](https://f-droid.org/de/packages/org.blokada.alarm/)
+- [BookList](https://f-droid.org/de/packages/com.ames.books/)
+- [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/)
+- [DAVx⁵](https://f-droid.org/de/packages/at.bitfire.davdroid/)
+- [NetGuard](https://f-droid.org/de/packages/eu.faircode.netguard/)
+- [EteSync](https://f-droid.org/de/packages/com.etesync.syncadapter/)
+- [GitNex](https://f-droid.org/de/packages/org.mian.gitnex/)
+- [KeePass DX](https://f-droid.org/de/packages/com.kunzisoft.keepass.libre/)
+- [KeePassDroid](https://f-droid.org/de/packages/com.android.keepass/)
+- []()
+- []()
+- []()
+- [Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 
-### [Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)
+### 
 
 ![Pi-hole Droid](https://f-droid.org/repo/icons-640/friimaind.piholedroid.10004.png)
+**[Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)**
