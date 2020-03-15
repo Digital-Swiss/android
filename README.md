@@ -56,7 +56,7 @@ Die Auswahl ist zwar kleiner, aber es gibt sie – die alternativen App-Anbieter
 - [KeePass DX](https://f-droid.org/de/packages/com.kunzisoft.keepass.libre/)
 - [KeePassDroid](https://f-droid.org/de/packages/com.android.keepass/)
 - []()
-- []()
+- [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
 - [p≡p | Pretty Easy Privacy (pEp)](https://f-droid.org/de/packages/security.pEp/)
 - [Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)
 - []()
