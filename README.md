@@ -34,7 +34,8 @@ Die Standard-Apps bleiben dir auch ohne Google-Konto erhalten. Du kannst sie auc
 
 ##### Die App-Alternativen
 
-Die Auswahl ist zwar kleiner, aber es gibt sie – die alternativen App-Anbieter. Zum Beispiel bei Aptoide oder Amazon (jedenfalls, wenn man sich dabei wohlfühlt, seine Apps einfach von einer anderen Datenkrake zu beziehen). Die Installationpakete der Stores kannst du jedenfalls direkt beim Anbieter laden, nachdem du deinem Handy das Installieren von Apps aus unbekannter Herkunft erlaubt hast (unter „Einstellung – Sicherheit“). Manche Hersteller bieten ihre Apps übrigens auch als .apk-Dateien an. Aber achte bitte darauf, dass du solche Dateien immer direkt von den Herstellerseiten beziehst. Die Archiv-Seiten sind oft mit Trojanern und Viren gespickt. Statt Chrome kannst du die mobilen Versionen von Firefox, Dolphin oder Opera verwenden, statt der Google-Tastatur zum Beispiel Swiftkey oder Swype. Für E-Books und Musik bieten sich der Bluefire Reader und der n7player an. Lediglich bei den Kartendiensten musst du wohl ein paar Abstriche machen. Die derzeit beste Alternative ist wohl die App OsmAnd, aber die Bedienung ist leider nicht ganz so komfortabel wie Google Maps. Tipp: Wenn du einen neuen mobilen Browser auf deinem Handy installiert hast, solltest du dir gleich Startpage.com als Standardsuchmaschine einrichten. Bei den meisten ist nämlich Google vorinstalliert. Mit diesen Schritten hast du dein Smartphone zwar nicht vollständig, aber doch weitgehend von Google befreit. Wenn du die Datenkrake ein für alle Mal loswerden willst, musst du ins kalte Wasser springen und auch die Firmware löschen und ersetzen. Wie das geht, zeigen wir dir in einem unserer nächsten Beiträge.
+Alternative App-Stores wie zum Beispiel [F-Droid](https://f-droid.org/de/) beherbergen nur FOSS Apps und ist somit allen Anderen vorzuziehen.
+
 
 ### App Stores
 
@@ -45,12 +46,20 @@ Die Auswahl ist zwar kleiner, aber es gibt sie – die alternativen App-Anbieter
 
 ### Apps
 
+#### AdBlocker
 - [AFWall+](https://f-droid.org/de/packages/dev.ukanth.ufirewall/)
 - [Blokada v4 (ad blocker)](https://f-droid.org/de/packages/org.blokada.alarm/)
-- [BookList](https://f-droid.org/de/packages/com.ames.books/)
-- [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/)
-- [DAVx⁵](https://f-droid.org/de/packages/at.bitfire.davdroid/)
+- ![Pi-hole Droid](https://f-droid.org/repo/icons-640/friimaind.piholedroid.10004.png)[Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)
 - [NetGuard](https://f-droid.org/de/packages/eu.faircode.netguard/)
+
+#### Chat
+- [Antox](https://github.com/Antox/Antox) Hier findest du [Clients](https://tox.chat/clients.html) und den [Blog](https://blog.tox.chat/). Press: https://www.itsec-tools.de/mobil/android/antox-tox-client-fuer-android/
+- [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/)
+- [Conversations](https://f-droid.org/packages/eu.siacs.conversations/)
+
+
+- [BookList](https://f-droid.org/de/packages/com.ames.books/)
+- [DAVx⁵](https://f-droid.org/de/packages/at.bitfire.davdroid/)
 - [EteSync](https://f-droid.org/de/packages/com.etesync.syncadapter/)
 - [GitNex](https://f-droid.org/de/packages/org.mian.gitnex/)
 - [KeePass DX](https://f-droid.org/de/packages/com.kunzisoft.keepass.libre/)
@@ -58,15 +67,9 @@ Die Auswahl ist zwar kleiner, aber es gibt sie – die alternativen App-Anbieter
 - []()
 - [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
 - [p≡p | Pretty Easy Privacy (pEp)](https://f-droid.org/de/packages/security.pEp/)
-- [Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)
 - []()
 - []()
 - []()
 - []()
 - []()
 - []()
-
-### 
-
-![Pi-hole Droid](https://f-droid.org/repo/icons-640/friimaind.piholedroid.10004.png)
-**[Pi-hole Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)**
