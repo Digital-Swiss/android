@@ -22,7 +22,7 @@ Get ready to play your favorite android games on your Windows PC and Mac on one 
 - [NetGuard](https://f-droid.org/de/packages/eu.faircode.netguard/)
 
 ### Chat/Messenger
-- [Antox](https://github.com/Antox/Antox) Hier findest du [Clients](https://tox.chat/clients.html) und den [Blog](https://blog.tox.chat/). Press: https://www.itsec-tools.de/mobil/android/antox-tox-client-fuer-android/
+- **[Antox](https://github.com/Antox/Antox)**:  Hier findest du [Clients](https://tox.chat/clients.html) und den [Blog](https://blog.tox.chat/). Press: https://www.itsec-tools.de/mobil/android/antox-tox-client-fuer-android/
 - [Briar](https://f-droid.org/de/packages/org.briarproject.briar.android/)
 - [Conversations](https://f-droid.org/packages/eu.siacs.conversations/)
 
